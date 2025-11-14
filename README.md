@@ -30,3 +30,13 @@ This repository contains my **Day 1 HTML practice** as part of my **120-day Full
 ---
 
 ## 🧩 Repository Structure
+```
+HTML-Practice-day1/
+├── .github/
+│ └── workflows/
+│ └── deploy.yml
+├── images/
+│ └── html-logo.png
+├── index.html
+├── README.md
+└── .gitignore
